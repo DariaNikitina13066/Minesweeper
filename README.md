@@ -1,5 +1,5 @@
 # Minesweeper
-##Реализация игры "Сапёр" на Android Studio 2018 3.2.0 
+## Реализация игры "Сапёр" на Android Studio 2018 3.2.0 
 Версия API проекта: API 14: Android 4.0 (IceCreamSandwich)
 
 ## Содержание:
